@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dAxRhYe73IuIzq4uK6LSq8WADM1xiQ243hELh+CyUv7tULRhfRCgf7QQglO6EgpmV6KWT2We8Co84yCqzWq4YQ==",
+  "success": true,
+  "projectFilePath": "D:\\ShazaibData\\WebDevelopment\\DotNet\\Learning\\Youtube\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

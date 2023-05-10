@@ -1,0 +1,12 @@
+D:\ShazaibData\WebDevelopment\DotNet\Learning\Youtube\BuberDinner\BuberDinner.Domain\bin\Debug\net7.0\BuberDinner.Domain.deps.json
+D:\ShazaibData\WebDevelopment\DotNet\Learning\Youtube\BuberDinner\BuberDinner.Domain\bin\Debug\net7.0\BuberDinner.Domain.dll
+D:\ShazaibData\WebDevelopment\DotNet\Learning\Youtube\BuberDinner\BuberDinner.Domain\bin\Debug\net7.0\BuberDinner.Domain.pdb
+D:\ShazaibData\WebDevelopment\DotNet\Learning\Youtube\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.csproj.AssemblyReference.cache
+D:\ShazaibData\WebDevelopment\DotNet\Learning\Youtube\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ShazaibData\WebDevelopment\DotNet\Learning\Youtube\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.AssemblyInfoInputs.cache
+D:\ShazaibData\WebDevelopment\DotNet\Learning\Youtube\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.AssemblyInfo.cs
+D:\ShazaibData\WebDevelopment\DotNet\Learning\Youtube\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.csproj.CoreCompileInputs.cache
+D:\ShazaibData\WebDevelopment\DotNet\Learning\Youtube\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.dll
+D:\ShazaibData\WebDevelopment\DotNet\Learning\Youtube\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\refint\BuberDinner.Domain.dll
+D:\ShazaibData\WebDevelopment\DotNet\Learning\Youtube\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.pdb
+D:\ShazaibData\WebDevelopment\DotNet\Learning\Youtube\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\ref\BuberDinner.Domain.dll

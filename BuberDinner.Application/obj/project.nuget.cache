@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MjaBodpbU3L43o3XNO/ov5yokyCBPjajOhUnGqM83Jm+BaD8rZA/2Cu1Pty8BEcfo7aGMApMGOQkaigJtWe0qQ==",
+  "success": true,
+  "projectFilePath": "D:\\ShazaibData\\WebDevelopment\\DotNet\\Learning\\Youtube\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

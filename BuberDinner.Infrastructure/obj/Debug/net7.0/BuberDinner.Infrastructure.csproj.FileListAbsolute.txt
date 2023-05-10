@@ -1,0 +1,17 @@
+D:\ShazaibData\WebDevelopment\DotNet\Learning\Youtube\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net7.0\BuberDinner.Infrastructure.deps.json
+D:\ShazaibData\WebDevelopment\DotNet\Learning\Youtube\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net7.0\BuberDinner.Infrastructure.dll
+D:\ShazaibData\WebDevelopment\DotNet\Learning\Youtube\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net7.0\BuberDinner.Infrastructure.pdb
+D:\ShazaibData\WebDevelopment\DotNet\Learning\Youtube\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net7.0\BuberDinner.Infrastructure.csproj.AssemblyReference.cache
+D:\ShazaibData\WebDevelopment\DotNet\Learning\Youtube\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net7.0\BuberDinner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\ShazaibData\WebDevelopment\DotNet\Learning\Youtube\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net7.0\BuberDinner.Infrastructure.AssemblyInfoInputs.cache
+D:\ShazaibData\WebDevelopment\DotNet\Learning\Youtube\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net7.0\BuberDinner.Infrastructure.AssemblyInfo.cs
+D:\ShazaibData\WebDevelopment\DotNet\Learning\Youtube\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net7.0\BuberDinner.Infrastructure.csproj.CoreCompileInputs.cache
+D:\ShazaibData\WebDevelopment\DotNet\Learning\Youtube\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net7.0\BuberDinner.Infrastructure.dll
+D:\ShazaibData\WebDevelopment\DotNet\Learning\Youtube\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net7.0\refint\BuberDinner.Infrastructure.dll
+D:\ShazaibData\WebDevelopment\DotNet\Learning\Youtube\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net7.0\BuberDinner.Infrastructure.pdb
+D:\ShazaibData\WebDevelopment\DotNet\Learning\Youtube\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net7.0\ref\BuberDinner.Infrastructure.dll
+D:\ShazaibData\WebDevelopment\DotNet\Learning\Youtube\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net7.0\BuberDinner.Application.dll
+D:\ShazaibData\WebDevelopment\DotNet\Learning\Youtube\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net7.0\BuberDinner.Domain.dll
+D:\ShazaibData\WebDevelopment\DotNet\Learning\Youtube\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net7.0\BuberDinner.Application.pdb
+D:\ShazaibData\WebDevelopment\DotNet\Learning\Youtube\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net7.0\BuberDinner.Domain.pdb
+D:\ShazaibData\WebDevelopment\DotNet\Learning\Youtube\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net7.0\BuberDinner.Infrastructure.csproj.CopyComplete

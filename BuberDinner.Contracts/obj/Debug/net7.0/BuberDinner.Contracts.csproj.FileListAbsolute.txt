@@ -1,0 +1,12 @@
+D:\ShazaibData\WebDevelopment\DotNet\Learning\Youtube\BuberDinner\BuberDinner.Contracts\bin\Debug\net7.0\BuberDinner.Contracts.deps.json
+D:\ShazaibData\WebDevelopment\DotNet\Learning\Youtube\BuberDinner\BuberDinner.Contracts\bin\Debug\net7.0\BuberDinner.Contracts.dll
+D:\ShazaibData\WebDevelopment\DotNet\Learning\Youtube\BuberDinner\BuberDinner.Contracts\bin\Debug\net7.0\BuberDinner.Contracts.pdb
+D:\ShazaibData\WebDevelopment\DotNet\Learning\Youtube\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.csproj.AssemblyReference.cache
+D:\ShazaibData\WebDevelopment\DotNet\Learning\Youtube\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\ShazaibData\WebDevelopment\DotNet\Learning\Youtube\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.AssemblyInfoInputs.cache
+D:\ShazaibData\WebDevelopment\DotNet\Learning\Youtube\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.AssemblyInfo.cs
+D:\ShazaibData\WebDevelopment\DotNet\Learning\Youtube\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.csproj.CoreCompileInputs.cache
+D:\ShazaibData\WebDevelopment\DotNet\Learning\Youtube\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.dll
+D:\ShazaibData\WebDevelopment\DotNet\Learning\Youtube\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\refint\BuberDinner.Contracts.dll
+D:\ShazaibData\WebDevelopment\DotNet\Learning\Youtube\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.pdb
+D:\ShazaibData\WebDevelopment\DotNet\Learning\Youtube\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\ref\BuberDinner.Contracts.dll
